@@ -64,6 +64,6 @@
 
 ---
 
-![Code Life](https://source.unsplash.com/800x400/?programming,technology)
+![Code Life](https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif)
 
 Thanks for stopping by! Let's build something amazing together. ✨
