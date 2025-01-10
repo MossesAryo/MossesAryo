@@ -1,26 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi%20There!%20%F0%9F%91%8B&fontSize=40&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Hi%20There!%20%F0%9F%91%8B&fontSize=40&animation=fadeIn&fontColor=58A6FF" />
   
-  <h1>I'm Mosses Aryo Bimo</h1>
+  <h1 align="center">I'm Mosses Aryo Bimo</h1>
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Engineer;Android+Developer;Cybersecurity+Enthusiast" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Software+Engineer;Android+Developer;Cybersecurity+Enthusiast" alt="Typing SVG"/>
   </a>
 
   <br>
   <br>
   
-  <a href="https://www.linkedin.com/in/mosses-aryo-bimo-92b9b3322">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://www.instagram.com/mz.tzx">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://github.com/MossesAryo">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+  <div style="display: flex; justify-content: center; gap: 10px;">
+    <a href="https://www.linkedin.com/in/mosses-aryo-bimo-92b9b3322">
+      <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&labelColor=0d1117&logo=linkedin&logoColor=0077B5" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.instagram.com/mz.tzx">
+      <img src="https://img.shields.io/badge/INSTAGRAM-E4405F?style=for-the-badge&labelColor=0d1117&logo=instagram&logoColor=E4405F" alt="Instagram"/>
+    </a>
+    <a href="https://github.com/MossesAryo">
+      <img src="https://img.shields.io/badge/GITHUB-ffffff?style=for-the-badge&labelColor=0d1117&logo=github&logoColor=ffffff" alt="GitHub"/>
+    </a>
+  </div>
 
-  <img src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" alt="Code Life" width="500"/>
+  <!-- Rest of your profile content remains the same -->
+  <!-- ... -->
+
 </div>
 
 <br>
