@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0d1117&height=200&section=header&text=Welcome%20to%20My%20Universe%20🌟&fontSize=40&animation=fadeIn&fontColor=58A6FF&fontAlignY=35&desc=Software%20Engineer%20|%20Android%20Developer%20|%20Security%20Enthusiast&descAlignY=55&descSize=14" />
 
   <h1 align="center">
-    <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px">
+    <img src=A"https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px">
     I'm Mosses Aryo Bimo
   </h1>
 
@@ -52,7 +52,9 @@
   <!-- Animated Stats Section -->
   <div align="center">
     <h2>📊 My GitHub Journey</h2>
-    <a href="https://github.com/MossesAryo/github-readme-streak-stats"><img width="278" src="https://MossesAryo-github-readme-stats.vercel.app/api/pin/?username=MossesAryo&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://github.com/MossesAryo/github-readme-streak-stats">
+    <img width="278" src="https://streak-stats.herokuapp.com/?user=MossesAryo&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats">
+  </a>
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=MossesAryo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF" />
     <br><br>
