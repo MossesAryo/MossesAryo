@@ -52,7 +52,7 @@
   <!-- Animated Stats Section -->
   <div align="center">
     <h2>📊 My GitHub Journey</h2>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MossesAryo&theme=tokyonight&hide_border=true&background=0d1117&stroke=58A6FF&ring=58A6FF&fire=58A6FF&currStreakNum=58A6FF&sideNums=58A6FF&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=58A6FF" />
+    <a href="https://github.com/MossesAryo/github-readme-streak-stats"><img width="278" src="https://MossesAryo-github-readme-stats.vercel.app/api/pin/?username=MossesAryo&repo=github-readme-streak-stats&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=MossesAryo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF" />
     <br><br>
