@@ -52,7 +52,7 @@
   <!-- Animated Stats Section -->
   <div align="center">
     <h2>📊 My GitHub Journey</h2>
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=MossesAryo&theme=dark)](https://git.io/streak-stats)
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MossesAryo&theme=radical" alt="GitHub Streak Stats"/>
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=MossesAryo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&text_color=58A6FF" />
     <br><br>
