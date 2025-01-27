@@ -13,7 +13,7 @@
   </a>
 
   <!-- Animated Social Links -->
-  <div style="display: flex; justify-content: center; gap: 12px; margin: 20px 0;">
+  <div style="display: flex; justify-content: center; gap: 11px; margin: 20px 0;">
     <a href="https://www.linkedin.com/in/mosses-aryo-bimo-92b9b3322" target="_blank">
       <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117">
     </a>
