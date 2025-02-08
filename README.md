@@ -41,14 +41,13 @@
     education: {
       school: "SMKN 11 Bandung 🎓",
       focus: "Software Engineering",
-      achievements: ["LKS RPL Competition Winner 🏆", "Best Student Developer 2024 🌟"]
     },
     currentFocus: ["Mobile App Development 📱", "Competitive Programming 💻", "Cybersecurity Research 🔒"],
     skills: {
       languages: ["Python", "Kotlin", "JavaScript", "PHP", "C#", "Java", "SQL"],
-      frameworks: ["Laravel", "Node.js", "Android SDK", "React Native", "Flutter"],
-      tools: ["Docker", "Git", "Firebase", "AWS", "MongoDB"],
-      security: ["Penetration Testing", "Network Security", "Cryptography"],
+      frameworks: ["Laravel", "Node.js", "Android SDK", "Flutter"],
+      tools: ["Docker", "Git", "AWS", "MongoDB"],
+      security: ["Penetration Testing", "Network Security"],
       softSkills: ["Problem Solving", "Team Leadership", "Project Management"]
     },
     funFact: "I debug code faster than I can solve a Rubik's cube... and I'm pretty fast at both! 🎯"
