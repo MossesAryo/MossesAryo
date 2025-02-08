@@ -25,7 +25,7 @@
     <a href="https://github.com/MossesAryo">
       <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
     </a>
-    <a href="mailto:your.email@domain.com">
+    <a href="mailto:mossesaryobimo@gmail.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
     </a>
   </div>
