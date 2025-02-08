@@ -77,13 +77,13 @@
   <h2>🚀 Technology Stack</h2>
   
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=kotlin,python,javascript,typescript,java,php,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=kotlin,python,javascript,php,cs&theme=dark" />
   
   <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=react,nodejs,laravel,flutter,docker,firebase,aws&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,flutter,&theme=dark" />
   
   <!-- Development Tools -->
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,mongodb,mysql,postgresql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,mongodb,mysql&theme=dark" />
 
   <!-- Enhanced Trophy Collection with Custom Theme -->
   <h2>🏆 GitHub Achievements</h2>
