@@ -11,7 +11,7 @@
 
   <!-- Enhanced Role Description with More Dynamic Text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;Android+Development+Specialist+%F0%9F%93%B1;Cybersecurity+Expert+%F0%9F%94%92;Competitive+Programmer+%F0%9F%8F%86" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full-Stack+Developer;Android+Development+Specialist+%F0%9F%93%B1;Cybersecurity+Enthusiast+%F0%9F%94%92;Competitive+Programmer+%F0%9F%8F%86" alt="Typing SVG"/>
   </a>
 
   <!-- Enhanced Social Links with More Platforms -->
