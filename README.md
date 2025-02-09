@@ -46,7 +46,7 @@
     skills: {
       languages: ["Python", "Kotlin", "JavaScript", "PHP", "C#", "Java", "SQL"],
       frameworks: ["Laravel", "Node.js", "Android SDK", "Flutter"],
-      tools: ["Docker", "Git", "AWS", "MongoDB"],
+      tools: ["Git", "MongoDB"],
       security: ["Penetration Testing", "Network Security"],
       softSkills: ["Problem Solving", "Team Leadership", "Project Management"]
     },
@@ -68,9 +68,6 @@
   
   <!-- Languages Stats -->
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MossesAryo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=58A6FF"/>
-
-  <!-- WakaTime Stats (if you use WakaTime) -->
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/wakatime?username=MossesAryo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=58A6FF"/>
 
   <!-- Enhanced Skills Showcase -->
   <h2>🚀 Technology Stack</h2>
