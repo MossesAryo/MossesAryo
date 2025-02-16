@@ -66,7 +66,7 @@ const mosses = {
   <h2>🚀 Technology Stack</h2>
   
   <h3>Languages</h3>
-  <img src="https://skillicons.dev/icons?i=html,css,kotlin,python,javascript,php,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=dart,html,css,kotlin,python,javascript,php,cs&theme=dark" />
   
   <h3>Frameworks & Libraries</h3>
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,flutter&theme=dark" />
