@@ -104,13 +104,6 @@ const mosses = {
   
   <!-- Main Contribution Graph -->
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=MossesAryo&custom_title=Mosses's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&hide_border=true" />
-  
-  <!-- Snake Animation - More Subtle -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MossesAryo/MossesAryo/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MossesAryo/MossesAryo/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MossesAryo/MossesAryo/output/github-contribution-grid-snake.svg">
-  </picture>
 
   <!-- Quote - Simple and Clean -->
   <h3>💭 Daily Inspiration</h3>
