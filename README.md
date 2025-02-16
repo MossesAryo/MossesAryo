@@ -50,7 +50,7 @@
       security: ["Penetration Testing", "Network Security"],
       softSkills: ["Problem Solving", "Team Leadership", "Project Management"]
     },
-    funFact: "I debug code faster than I can solve a Rubik's cube... and I'm pretty fast at both! 🎯"
+    funFact: "I can debug in my dreams"
   };
   ```
 
