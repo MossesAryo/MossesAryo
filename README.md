@@ -72,7 +72,7 @@ const mosses = {
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,flutter&theme=dark" />
   
   <h3>Development Tools</h3>
-  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,mongodb,mysql&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=androidstudio,vscode,git,github,mongodb,mysql,firebase,postman&theme=dark" />
 
   <!-- Simple Divider -->
   <hr style="width:70%; border:1px solid #58A6FF;">
