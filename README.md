@@ -73,7 +73,7 @@
   <h2>🚀 Technology Stack</h2>
   
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=kotlin,python,javascript,php,cs&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=html,css,kotlin,python,javascript,php,cs&theme=dark" />
   
   <!-- Frameworks & Tools -->
   <img src="https://skillicons.dev/icons?i=nodejs,laravel,flutter,&theme=dark" />
