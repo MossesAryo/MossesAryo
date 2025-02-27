@@ -33,7 +33,7 @@
   <hr style="width:70%; border:1px solid #58A6FF;">
 
   <!-- About Me Section - Clean and Structured -->
-  <h2>💫 About Me</h2>
+  <h2>💫 About Me</h2
   
 ```javascript
 const mosses = {
