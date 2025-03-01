@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center"
   <!-- Clean Header with Custom Background -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Welcome%20to%20My%20Universe%20🌌&fontSize=40&animation=fadeIn&fontColor=fff&fontAlignY=35&desc=Software%20Engineer%20|%20Android%20Developer%20|%20CyberSecurity%20Enthusiast&descAlignY=55&descSize=14" />
 
