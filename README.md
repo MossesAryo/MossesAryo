@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Welcome%20to%20My%20Universe%20🌌&fontSize=40&animation=fadeIn&fontColor=fff&fontAlignY=35&desc=Software%20Engineer%20|%20Android%20Developer%20|%20CyberSecurity%20Enthusiast&descAlignY=55&descSize=14" />
 
   <!-- Name with Simple Wave Emoji -->
-  <h1
+  <h1>
     <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">
     Hi, I'm Mosses Aryo Bimo
   </h1>
