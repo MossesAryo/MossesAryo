@@ -14,7 +14,7 @@
 ## 💫 About Me
 
 I'm **Mosses Aryo Bimo**, a passionate developer from **Bandung, Indonesia**, currently studying at **SMKN 11 Bandung** majoring in **Software Engineering**.  
-I focus on **Mobile App Development**, **Web Engineering**, and **Cybersecurity Research**.  
+I focus on **Mobile App Development**, **Back-End Web Development**, and **Cybersecurity Research**.  
 I love solving real-world problems through clean, efficient, and scalable code.
 
 **Core Skills:**
