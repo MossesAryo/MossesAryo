@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm **Mosses Aryo Bimo**
 
-### Full-Stack Developer | Android Specialist | Cybersecurity Enthusiast
+### Full-Stack Developer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mosses-aryo-bimo-92b9b3322)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mz.tzx)
